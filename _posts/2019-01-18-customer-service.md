@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Jekyll
+title: What is Jekyll Reboza
 author: jane
 categories:
 - Jekyll
